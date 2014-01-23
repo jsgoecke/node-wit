@@ -1,4 +1,5 @@
 # node-wit
+[![wercker status](https://app.wercker.com/status/d227a65d1a4371a465e50fd255b4402f "wercker status")](https://app.wercker.com/project/bykey/d227a65d1a4371a465e50fd255b4402f)
 
 Node.js module for consuming the [Wit](http://wit.ai) API for Natural Language Processing ([NPL](http://en.wikipedia.org/wiki/Natural_language_processing)).
 
