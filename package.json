@@ -1,0 +1,14 @@
+{
+    "name": "wit-ai",
+    "version": "0.0.1",
+    "author": "Jason Goecke",
+    "description": "A node.js library for the Wit NLP API",
+    "homepage": "https://github.com/jsgoecke/node-wit",
+    "main" : "./lib/node-wit.js",
+    "dependencies": {
+        "request": ""
+    },
+    "devDependencies": {
+        "coffee-script": ""
+    }
+}
